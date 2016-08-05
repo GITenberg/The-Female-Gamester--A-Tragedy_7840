@@ -1,0 +1,27 @@
+_repo: The-Female-Gamester--A-Tragedy_7840
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Howard, Gorges Edmond
+    aliases:
+    - Howard, George Edmond
+    - Howard, G. E. (Gorges Edmond)
+    birthdate: 1715
+    deathdate: 1786
+    gutenberg_agent_id: '2552'
+    url: http://www.gutenberg.org/2009/agents/2552
+description: ''
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7840'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English drama'
+- !lcc 'PR'
+- GITenberg
+title: 'The Female Gamester: A Tragedy'
+url: http://www.gutenberg.org/ebooks/7840
